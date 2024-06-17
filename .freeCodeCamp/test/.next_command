@@ -79,3 +79,7 @@ chmod +x insert_data.sh
 ./queries.sh
 chmod +x queries.sh
 ./queries.sh
+git pull origin main
+git push origin main
+ssh 'freecodecam-learnworldc-ssvbd6irsha@freecodecam-learnworldc-ssvbd6irsha.ssh.ws-us114.gitpod.io'
+ssh 'freecodecam-learnworldc-ssvbd6irsha#WOUtVbPmbYTDHhbW_58m1pSq8nqR6H6A@freecodecam-learnworldc-ssvbd6irsha.ssh.ws-us114.gitpod.io'
